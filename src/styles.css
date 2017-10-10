@@ -201,7 +201,7 @@ top: 0;
 /* start home */
 #home
 {
-    background: url('') no-repeat;
+    /* background: url('') no-repeat; */
     background-size: cover;
     padding-top: 160px;
     padding-bottom: 100px;
